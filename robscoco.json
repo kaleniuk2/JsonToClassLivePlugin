@@ -1,0 +1,16 @@
+{
+  "mensagem": "stringdsdsdsdssd",
+  "aceites_pendentes": [
+    {
+      "tipos_Aceites_id": 0,
+      "descricao": "string",
+      "data_inclusao": "2023-03-17T19:08:35.056Z",
+      "vigencia": "2023-03-17T19:08:35.056Z",
+      "data_expiracao": "2023-03-17T19:08:35.056Z",
+      "produtos_aceites": {
+        "produtos_aceites_id": 0,
+        "descricao": false
+      }
+    }
+  ]
+}
